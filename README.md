@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add Neural Magic Docs integrations page (#7234)
