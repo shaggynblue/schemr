@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
