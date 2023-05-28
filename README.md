@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+New test for labels and crops (#8861)
