@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Compress docs images (#8124)
