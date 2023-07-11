@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update Colab notebook for YOLOv8.1 (#8660)
