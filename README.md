@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Fix OpenVINO links (#7930)
