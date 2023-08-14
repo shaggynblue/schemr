@@ -1,1 +1,1 @@
-fix resume training
+Fix Multi-GPU resume bug (#7328)
