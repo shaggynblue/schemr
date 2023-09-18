@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
