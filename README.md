@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+YOLOv8 INT8 TFLite Inference Example (#7317)
