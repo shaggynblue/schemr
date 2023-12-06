@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add YOLOv8 LibTorch C++ inference example (#7090)
