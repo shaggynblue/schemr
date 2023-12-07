@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Update the heatmap module code + docs (#7045)
