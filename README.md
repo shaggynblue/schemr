@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add plot_images conf_thresh parameter (#8446)
