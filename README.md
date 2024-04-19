@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
