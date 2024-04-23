@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
