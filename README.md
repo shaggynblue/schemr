@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
