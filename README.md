@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Updated SQL Query Plot Code (#8120)
