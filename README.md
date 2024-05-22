@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Avoid creating -hub dir without processing images (#8334)
