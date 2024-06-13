@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add docs guide terminal images (#8819)
