@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Add Neural Magic Docs integrations page (#7234)
