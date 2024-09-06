@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Updated SQL Query Plot Code (#8120)
