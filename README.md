@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix PIL show() and save() (#8202)
